@@ -127,7 +127,7 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel"/>
 
 </p>
 
@@ -137,7 +137,7 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,bash"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
 
 </p>
 
