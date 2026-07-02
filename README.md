@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Harish%20Choudhary&fontColor=ffffff&fontSize=50&animation=twinkling&desc=Backend%20Developer%20|%20Machine%20Learning%20Engineer&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:06B6D4&height=220&section=header&text=Harish%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Harish Choudhary</h1>
@@ -143,46 +143,197 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 TalentMatch AI
+<table>
 
-AI Resume Screening & Candidate Ranking System
+<tr>
 
-- Semantic Resume Analysis
-- Candidate Ranking
-- AI Skill Gap Analysis
-- Recruiter Dashboard
+<td width="50%" valign="top">
 
----
+## 🤖 TalentMatch AI
 
-### 🛒 Multi Vendor E-Commerce Platform
+### AI Recruitment Intelligence Platform
 
-- Node.js
-- Express
-- MongoDB
-- JWT Authentication
-- Payment Integration
-- Vendor Dashboard
+A production-grade AI recruitment platform that automatically screens, scores (0–100), and ranks resumes using semantic AI. Features ATS scoring, skill-gap analysis, recruiter analytics, JWT authentication, FastAPI backend, and Neon PostgreSQL for intelligent hiring in seconds.
 
----
+**Highlights**
 
-### 🔒 Secure Document Verification
+- 🤖 Semantic Resume Analysis
+- 📊 ATS Score Generation
+- 🎯 Candidate Ranking
+- 📈 Recruiter Analytics Dashboard
+- 🔐 JWT Authentication
+- ⚡ FastAPI Backend
+- 🧠 AI Skill Gap Detection
 
-Blockchain-based document verification platform with secure file hashing and verification.
+**Tech Stack**
 
----
+`Next.js` `React 19` `TypeScript` `FastAPI` `Python`
+`Neon PostgreSQL` `SQLAlchemy`
+`Sentence Transformers` `spaCy`
+`JWT` `Tailwind CSS` `Framer Motion` `Zustand`
 
-### 🌐 Personal Portfolio
+</td>
 
-Modern portfolio built using
+<td width="50%" valign="top">
 
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Express
-- MongoDB Atlas
+## 📄 Resume Builder Pro
+
+### AI Resume Builder
+
+An AI-powered MERN resume builder featuring ATS-friendly templates, OpenAI-powered content optimization, live preview, PDF resume parsing, smart image processing, shareable resume links, and secure cloud resume management.
+
+**Highlights**
+
+- ✨ AI Content Generation
+- 📑 ATS-Friendly Templates
+- 👀 Live Resume Preview
+- 📄 PDF Resume Parsing
+- 🖼 Smart Image Processing
+- ☁️ Cloud Resume Storage
+
+**Tech Stack**
+
+`React 19`
+`Redux Toolkit`
+`Node.js`
+`Express`
+`MongoDB`
+`OpenAI`
+`JWT`
+`Tailwind CSS`
+`ImageKit`
+`Multer`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚗 Car Rental Platform
+
+### Your Perfect Ride
+
+A production-ready vehicle rental platform featuring secure authentication, fleet management, booking workflows, ImageKit integration, responsive design, and complete customer & administrator dashboards.
+
+**Highlights**
+
+- 🚘 Vehicle Booking
+- 👨‍💼 Admin Dashboard
+- 📅 Booking History
+- 🔐 Secure Authentication
+- 🖼 ImageKit Integration
+- 📱 Fully Responsive
+
+**Tech Stack**
+
+`React`
+`Vite`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+`Tailwind CSS`
+`ImageKit`
+`Axios`
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✍️ QuickBlog AI
+
+### AI Blogging Platform
+
+A modern blogging platform powered by Gemini AI featuring AI content generation, threaded comments, admin dashboard, rich text editing, media management, and a complete MERN content management workflow.
+
+**Highlights**
+
+- 🤖 Gemini AI
+- 📝 Rich Text Editor
+- 💬 Threaded Comments
+- 📊 Admin Dashboard
+- 🖼 ImageKit Media
+- 🔐 Secure Authentication
+
+**Tech Stack**
+
+`React 19`
+`Node.js`
+`Express`
+`MongoDB`
+`Gemini AI`
+`Quill.js`
+`JWT`
+`Tailwind CSS`
+`ImageKit`
+`Framer Motion`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 Prescripto
+
+### Healthcare Appointment Platform
+
+A complete healthcare appointment booking system enabling patients to discover doctors, schedule appointments, and manage bookings with dedicated admin and doctor dashboards.
+
+**Highlights**
+
+- 👨‍⚕️ Doctor Discovery
+- 📅 Appointment Scheduling
+- 👨‍💼 Admin Dashboard
+- 🩺 Doctor Dashboard
+- 🔐 Role-Based Authentication
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+`Tailwind CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 Agency.AI
+
+### Premium AI Agency Website
+
+A premium AI agency landing page featuring elegant UI/UX, dark & light themes, smooth animations, responsive layouts, SEO optimization, and conversion-focused design.
+
+**Highlights**
+
+- 🌙 Dark / Light Theme
+- 🎬 Framer Motion Animations
+- 📱 Responsive Design
+- 🚀 SEO Optimized
+- 💎 Premium UI
+
+**Tech Stack**
+
+`React`
+`Vite`
+`Tailwind CSS`
+`Framer Motion`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -195,6 +346,92 @@ Modern portfolio built using
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishh-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 📜 Certifications
+
+| Certification | Organization | Year |
+|---------------|-------------|------|
+| 🏆 Advanced Course in Emerging Technologies | SAP Code Unnati & Edunet Foundation | 2024–2025 |
+| 🤖 ML Engineering | Edquest Platform | 2026 |
+| 🧠 Introduction to Machine Learning | Edquest Platform | 2026 |
+| 💻 MERN Stack Development | Edquest Platform | 2026 |
+| 🌐 Full Stack Developer | Edquest Platform | 2026 |
+| 🎨 HTML & CSS for Beginners | Edquest Platform | 2026 |
+| 🤖 AI Agent Hackathon | Product Space | 2026 |
+| 💼 Technology Job Simulation | Deloitte (Forage) | 2025 |
+| 📊 Data Analytics Job Simulation | Deloitte (Forage) | 2026 |
+
+---
+
+# 🎓 Certification Highlights
+
+### ☁️ Advanced Course in Emerging Technologies
+**SAP Code Unnati & Edunet Foundation (2024–2025)**
+
+> Machine Learning • Deep Learning • Computer Vision • IoT • SAP ABAP • SAP BTP
+
+---
+
+### 🤖 Machine Learning Specialization
+**Edquest Platform (2026)**
+
+- ML Engineering
+- Introduction to Machine Learning
+- Model Training
+- Feature Engineering
+- Model Evaluation
+- Model Deployment
+
+---
+
+### 💻 Full Stack Web Development
+**Edquest Platform (2026)**
+
+- MERN Stack Development
+- Full Stack Development
+- React
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+---
+
+### 🎨 Frontend Development
+**Edquest Platform (2026)**
+
+- HTML5
+- CSS3
+- Responsive Design
+- Modern Web Development
+
+---
+
+### 🏢 Industry Experience
+
+**Deloitte (Forage)**
+
+- Technology Job Simulation
+- Data Analytics Job Simulation
+- Software Engineering
+- Data Analytics
+- Business Intelligence
+- Technology Consulting
+
+---
+
+### 🚀 Hackathon
+
+**Product Space**
+
+AI Agent Hackathon
+
+- AI Agents
+- Generative AI
+- Innovation
+- Problem Solving
 
 ---
 
@@ -236,15 +473,7 @@ Modern portfolio built using
 
 ---
 
-# 📚 Currently Learning
 
-- MLOps
-- Kubernetes
-- Docker
-- CI/CD
-- AWS
-- Distributed Systems
-- Microservices
 
 <p align="center">
 
