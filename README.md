@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:06B6D4&height=220&section=header&text=Harish%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,12,20,24,30&text=Harish%20Choudhary&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Developer%20•%20Machine%20Learning%20Engineer%20•%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Harish Choudhary</h1>
@@ -213,26 +213,6 @@ Modern portfolio built using
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishh-codes&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/harishh-codes/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishh-codes&theme=tokyonight&margin-w=10&no-frame=true&row=1"/>
 
 </p>
 
