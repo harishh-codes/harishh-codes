@@ -222,7 +222,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/harishh-codes/harishh-codes/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/harishh-codes/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -265,15 +265,6 @@ Modern portfolio built using
 - AWS
 - Distributed Systems
 - Microservices
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=harishh-codes&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <p align="center">
 
