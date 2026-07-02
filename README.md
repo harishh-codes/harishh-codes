@@ -14,7 +14,7 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Engineer;MERN+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Engineer;MERN+Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
