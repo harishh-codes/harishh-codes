@@ -43,19 +43,19 @@ Building scalable backend systems, AI-powered applications, and modern web exper
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://harish-choudhary-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/harishchoudhary12/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harish.m.choudhary12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/harishh-codes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -190,9 +190,9 @@ Modern portfolio built using
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harishh-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishh-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -202,7 +202,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harishh-codes&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -212,7 +212,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishh-codes&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -222,7 +222,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/harishh-codes/harishh-codes/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -232,7 +232,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harishh-codes&theme=tokyonight&margin-w=10&no-frame=true&row=1"/>
 
 </p>
 
@@ -269,7 +269,7 @@ Modern portfolio built using
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=harishh-codes&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
