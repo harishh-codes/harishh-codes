@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:06B6D4&height=220&section=header&text=Harish%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1F2937,100:4B5563&height=220&section=header&text=Harish%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Harish Choudhary</h1>
@@ -337,17 +337,6 @@ A premium AI agency landing page featuring elegant UI/UX, dark & light themes, s
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harishh-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishh-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📜 Certifications
 
