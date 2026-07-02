@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,12,20,24,30&text=Harish%20Choudhary&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Developer%20•%20Machine%20Learning%20Engineer%20•%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Harish%20Choudhary&fontColor=ffffff&fontSize=50&animation=twinkling&desc=Backend%20Developer%20|%20Machine%20Learning%20Engineer&descAlignY=70"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Harish Choudhary</h1>
